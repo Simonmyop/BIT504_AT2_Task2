@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-
+// This comment added to GameMain class to test experiment_1 branch push - pull to GitHub 
 
 public class GameMain extends JPanel implements MouseListener{
 	//Constants for game 
